@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#fff</color>
+    <color name="colorPurple">#983CFF</color>
+    <color name="colorPurpleT">#64983cff</color>
+    <color name="colorBlue">#2FB4FF</color>
+    <color name="colorBlueT">#642fb4ff</color>
+    <color name="colorSplash">#FCF0ECEC</color>
+    <color name="disable">#757575</color>
+    <color name="enable">#FF278DCB</color>
+    <color name="mauxanhla">#50D123</color>
+    <color name="maumacdinh">#979797</color>
+    <color name="disable_line">#B6B6B6</color>
+    <color name="red">#E40F0F</color>
+    <color name="yellow">#FF9800</color>
+</resources>
